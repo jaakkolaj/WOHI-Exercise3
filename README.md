@@ -1,1 +1,2 @@
-# WOHI-Exercise3 2024
+<<<<<<< HEAD
+# WOHI-Exercise3 2024 jaakkolaj
